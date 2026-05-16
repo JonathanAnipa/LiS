@@ -2,6 +2,7 @@
 
 Project Structure
 
+```bash
 LiS-simulator/
 ├── backend/
 │   ├── go.mod
@@ -13,3 +14,4 @@ LiS-simulator/
 │   ├── app.js           # The JS logic that draws graphs and grabs inputs
 │   └── styles.css       # (Optional) For making the UI look clean
 └── README.md            # Project documentation 
+``` 
