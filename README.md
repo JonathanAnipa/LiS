@@ -1,17 +1,27 @@
-# LiS
+# BatteryLab
 
-Title 
-
-Lithium-Sulfur Battery Simulator (Go/JS)
+BatteryLab is an open-source scientific software project focused on battery research and analysis.
 
 
-Description
+## Goals
 
- A modular application tracking capacity degradation curves based on chemical reaction rates and the polysulfide shuttle effect.
+- Analyze battery cycling data
+- Visualize battery performance
+- Build tools for battery researchers
+- Learn Go and JavaScript through real scientific applications
 
 
-Project Structure
+## Tech Stack
 
+- Go
+- JavaScript
+- HTML
+- CSS
+
+
+## Project Structure
+
+```bash 
 battery-lab/
 │
 ├── backend/
@@ -26,7 +36,9 @@ battery-lab/
 │   └── go.mod
 │
 ├── frontend/
-│   ├── index.html
+│   ├── templates  
+|   |    └── index.html  
+|   |
 │   ├── css/
 │   │   └── styles.css
 │   │
@@ -42,3 +54,9 @@ battery-lab/
 ├── README.md
 │
 └── .gitignore
+```
+
+
+## Author
+
+Jonathan Elikplim Anipa
