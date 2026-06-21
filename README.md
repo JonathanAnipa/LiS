@@ -12,3 +12,33 @@ Description
 
 Project Structure
 
+battery-lab/
+│
+├── backend/
+│   ├── cmd/
+│   │   └── server/
+│   │       └── main.go
+│   │
+│   ├── internal/
+│   │
+│   ├── api/
+│   │
+│   └── go.mod
+│
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   │   └── styles.css
+│   │
+│   ├── js/
+│   │   └── app.js
+│   │
+│   └── assets/
+│
+├── docs/
+│
+├── sample-data/
+│
+├── README.md
+│
+└── .gitignore
