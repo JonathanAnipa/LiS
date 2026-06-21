@@ -1,0 +1,40 @@
+BatteryLab
+
+v0.1 Foundations
+│
+├── Go server
+├── Static frontend
+├── GitHub
+└── Project architecture
+
+↓
+
+v0.2 CSV Processing
+
+↓
+
+v0.3 Statistics Engine
+
+↓
+
+v0.4 Interactive Charts
+
+↓
+
+v0.5 Multi-file Comparison
+
+↓
+
+v0.6 Scientific Calculations
+
+↓
+
+v0.7 REST API
+
+↓
+
+v0.8 UI Improvements
+
+↓
+
+v1.0 Portfolio Release
